@@ -231,7 +231,7 @@ option:not(:checked) {
   font-size: 1.6rem;
   font-family: 'Work Sans', Arial, sans-serif;
   font-weight: 300;
-  margin: 15px 66px 0 201px;
+  margin: 15px 3px 0 201px;
   padding: 0 0 0 0;
   float: left;
   width: 236px;
@@ -241,7 +241,7 @@ option:not(:checked) {
 
 .brand {
   margin: 0.25em 0 0.35em;
-  gap: 20px;
+  gap: 19px;
 }
 
 .brand-container {
@@ -323,7 +323,7 @@ svg :hover {
   position: absolute;
   display: block;
   right: 61%;
-  top: 178.5%;
+  top: 187.5%;
   background: url(https://www.docplanner.com/img/logo.png) no-repeat;
   width: 456px;
   height: 309px;
